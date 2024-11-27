@@ -38,7 +38,7 @@ def main():
     else:
         s = input("Sentence: ")
 
-    # Convert input into list of words
+    # Convert input into list of word
     s = preprocess(s)
 
     # Attempt to parse sentence
